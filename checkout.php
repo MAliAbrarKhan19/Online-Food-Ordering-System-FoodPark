@@ -48,7 +48,7 @@ error_reporting(0);
 			17 => "SEVENTEEN",
 			18 => "EIGHTEEN",
 			19 => "NINETEEN",
-			20 => "TWENTY",
+			20 => "TWENTY", 
 			21 => "TWENTYONE",
 			22 => "TWENTYTWO",
 			23 => "TWENTYTHREE",
